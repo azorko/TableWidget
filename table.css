@@ -1,0 +1,26 @@
+.table {
+	display: table;
+}
+
+.title {
+	display: table-caption;
+	font-weight: bold;
+	text-align: center;
+}
+
+.headers {
+	display: table-row;
+	font-weight: bold;
+	text-align: center;
+}
+
+.row {
+	display: table-row;
+	text-align: center;
+}
+
+.cell {
+	display: table-cell;
+	border: 1px solid black;
+	padding: 0 10px 0 10px;
+}
